@@ -6,6 +6,7 @@ app.listen( port, () => {
 console.log(`o servidor esta rodando na porta ${port}`)
 });
 
+
 const index = require('./src/routes/index');
 
 app.use("/", index);

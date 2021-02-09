@@ -1,0 +1,66 @@
+[
+    {
+      "name": "Cavaleiros do Zodíaco",
+      "image": "https://i.pinimg.com/originals/ea/25/82/ea2582f56431f07cf4c16aab4dc17b21.jpg",,
+      "start_year": 1986,
+      "manga": true,
+      "id": 1
+    },
+    {
+      "name": "Dragon Ball Z",
+      "image": "https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest?cb=20201224055027&path-prefix=pt-br",
+      "start_year": 1989,
+      "manga": true,
+      "id": 2
+    },
+    {
+      "name": "Sailor Moon",
+      "image": "https://i.pinimg.com/736x/c1/ed/19/c1ed19fd5b07463f28bb3a3a6fdfa1cc.jpg",
+      "start_year": 1992,
+      "manga": true,
+      "id": 3
+    },
+    {
+      "name": "Sakura Card Captor",
+      "image": "https://i.pinimg.com/originals/f6/e0/c2/f6e0c2e32c1291c8674b0e27f73dce96.jpg",
+      "start_year": 1998,
+      "manga": true,
+      "id": 4
+    },
+    {
+      "name": "Super campões",
+      "image": "https://static.wikia.nocookie.net/captaintsubasa/images/7/79/TtCqdE4RtUQ0b1LElhQlDYDnuu2.jpg/revision/latest/scale-to-width-down/340?cb=20200420100608",
+      "start_year": 1983,
+      "manga": true,
+      "id": 5
+    },
+    {
+      "name": "Digimon",
+      "image": "https://static.wikia.nocookie.net/digimonat/images/e/e6/Digimon_Adventure_2020_Poster.jpg/revision/latest/scale-to-width-down/340?cb=20200312154057&path-prefix=pt",
+      "start_year": 1999,
+      "manga": true,
+      "id": 6
+    },
+    {
+      "name": "Cowboy Bebop",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNlNjBkODEtZThlOC00YzUxLWI0MjMtMjk3YzJmMDFlNWZlXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+      "start_year": 1997,
+      "manga": false,
+      "id": 7
+    },
+    {
+      "name": "Naruto",
+      "image": "https://cdn11.bigcommerce.com/s-b72t4x/images/stencil/1280x1280/products/11169/20874/24_1075_Naruto_Group__97803.1415650378.jpg?c=2",
+      "start_year": 1998,
+      "manga": true,
+      "id": 8
+    },
+    {
+      "name": "Boku no hero academia",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91kjVOEopVL._AC_SL1500_.jpg",
+      "start_year": 2016,
+      "manga": true,
+      "id": 9
+    }
+  ]
+  © 202
