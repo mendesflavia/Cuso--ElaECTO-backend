@@ -10,7 +10,7 @@ app.listen(port, () => {
 app.use(bodyParser.json());
 
 const index = require('./src/routes/index');
-const animes = require("./src/routes/animesRoutes");
+const animes = require('./src/routes/animesRoutes');
 
 app.use("/", index);
 app.use("/animes", animes);
